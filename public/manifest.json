@@ -2,7 +2,7 @@
   "short_name": "Green Team Wins Score Tracker",
   "name": "Green Team Wins Score Tracker",
   "description": "App for tracking scores in Green Team Wins",
-  "start_url": ".",
+  "start_url": "/green-team-wins-score-tracker",
   "display": "standalone",
   "theme_color": "#6fdef9",
   "background_color": "#6fdef9",
