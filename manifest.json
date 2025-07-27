@@ -1,0 +1,47 @@
+{
+  "short_name": "Green Team Wins Score Tracker",
+  "name": "Green Team Wins Score Tracker",
+  "description": "App for tracking scores in Green Team Wins",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6fdef9",
+  "background_color": "#6fdef9",
+  "icons": [
+    {
+      "src": "/green-team-wins-score-tracker/images/icons/GTW-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/green-team-wins-score-tracker/images/icons/GTW-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/green-team-wins-score-tracker/images/icons/GTW-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/green-team-wins-score-tracker/images/icons/GTW-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/green-team-wins-score-tracker/images/icons/GTW-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/green-team-wins-score-tracker/images/icons/GTW-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/green-team-wins-score-tracker/images/icons/GTW-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait"
+}

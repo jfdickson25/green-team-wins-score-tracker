@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/green-team-wins-score-tracker/static/css/main.576df97a.css",
+    "main.js": "/green-team-wins-score-tracker/static/js/main.302e6b18.js",
+    "index.html": "/green-team-wins-score-tracker/index.html",
+    "main.576df97a.css.map": "/green-team-wins-score-tracker/static/css/main.576df97a.css.map",
+    "main.302e6b18.js.map": "/green-team-wins-score-tracker/static/js/main.302e6b18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576df97a.css",
+    "static/js/main.302e6b18.js"
+  ]
+}
